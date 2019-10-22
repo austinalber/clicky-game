@@ -1,12 +1,15 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import "./NavBar.css"
 
-function NavTabs() {
+const NavBar = props => {
   return (
-    <div>
-      
-    </div>
+      <div className="page-header">
+        <div className="title">Clicky Game!</div>
+        <div className="score">
+          Score: {props.score} High Score: {props.highScore}
+        </div>
+      </div>
   );
 }
 
-export default NavTabs;
+export default NavBar;
