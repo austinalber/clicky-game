@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "C3PO and R2D2",
+      "image": "https://cdn1-www.comingsoon.net/assets/uploads/2018/09/rsc3-768x441.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Princess Leia",
+      "image": "https://cdn3-www.comingsoon.net/assets/uploads/2018/09/LEIA-768x445.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Darth Sideous",
+      "image": "https://cdn2-www.comingsoon.net/assets/uploads/2018/09/EMPEROR-768x434.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Mace Windu",
+      "image": "https://cdn2-www.comingsoon.net/assets/uploads/2018/09/mace-768x435.jpg",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Rey",
+      "image": "https://cdn1-www.comingsoon.net/assets/uploads/2018/09/rey3-768x435.jpg",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Obi-Wan Kenobi",
+      "image": "https://cdn2-www.comingsoon.net/assets/uploads/2018/09/OBIWAN-768x432.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Yoda",
+      "image": "https://cdn3-www.comingsoon.net/assets/uploads/2018/09/YODA1.jpg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Darth Vader",
+      "image": "https://cdn1-www.comingsoon.net/assets/uploads/2018/09/darth-768x432.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Han Solo",
+      "image": "https://cdn3-www.comingsoon.net/assets/uploads/2018/09/HS1-768x432.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Boba Fett",
+      "image": "https://cdn1-www.comingsoon.net/assets/uploads/2018/05/boba-fett-boba-fett-where-768x454.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Darth Maul",
+      "image": "https://imgix.ranker.com/user_node_img/50085/1001691567/original/for-darth-maul-being-chopped-in-half-with-a-lightsaber-is-only-the-beginning-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Luke Skywalker",
+      "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg/revision/latest/scale-to-width-down/500?cb=20170927034529",
+      "count": 0
+    }
+  ]
