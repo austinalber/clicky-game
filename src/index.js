@@ -7,11 +7,11 @@ import './index.css';
 
 // optional cofiguration
 const options = {
-  // you can also just use 'bottom center'
-  position: positions.BOTTOM_CENTER,
+  // Sets position of generated alerts
+  position: positions.MIDDLE,
+  // Determines alert lifetime
   timeout: 5000,
-  offset: '30px',
-  // you can also just use 'scale'
+  // Sets alert style
   transition: transitions.SCALE,
 };
 

@@ -9,7 +9,7 @@ const phantomStyle = {
     width: "100%"
 };
 const footerStyle = {
-    backgroundColor: "#2A77AE",
+    backgroundColor: "#6CADDC",
     fontSize: "15px",
     textColor: "black",
     textAlign: "center",
