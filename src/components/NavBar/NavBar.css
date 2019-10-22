@@ -1,14 +1,16 @@
 .page-header {
-    width: 100%;
-    font-size: 2rem;
-    color: #2A77AE;
-    margin-bottom: 10px;
-  }
-  
-  .title {
-    float: left;
-  }
-  
-  .score {
-    float: right;
-  }
+  width: 150%;
+  font-size: 2rem;
+  color: #2A77AE;
+  margin-bottom: -25px;
+  margin-top: -30px;
+  padding: 20px;
+}
+
+.title {
+  float: left;
+}
+
+.score {
+  float: right;
+}

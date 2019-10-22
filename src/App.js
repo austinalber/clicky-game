@@ -3,6 +3,7 @@ import { useAlert } from "react-alert";
 import NavBar from "./components/NavBar";
 import characters from "./characters.json"
 import Card from "./components/Card"
+import Footer from "./components/Footer"
 import "./app.css"
 
 const App = () => {
@@ -18,8 +19,8 @@ const App = () => {
     charactersList.forEach(character => {
       character.count = 0;
     });
-    console.log(`Game Over! Your Score: ${score}`);
-    alert.error(`Game Over! Your Score: ${score}`);
+    console.log(`Game Over! Score: ${score}`);
+    alert.error(`Game Over! Score: ${score}`);
     setHighScore(score);
     setScore(0);
     return true;
@@ -58,6 +59,7 @@ const App = () => {
           image={charactersList.image}
         />
       ))}
+      <Footer />
     </div>
   );
 }
