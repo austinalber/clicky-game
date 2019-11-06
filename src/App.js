@@ -13,9 +13,8 @@ const App = () => {
   const [score, setScore] = useState(0);
   const [highScore, setHighScore] = useState(0);
 
-  // Function to determine if game is over and
-  // updates highScore
-  const gameOver = () => {
+  // Function to determine if game is over and end game
+  const isGameOver = () => {
     if (score > highScore) {
       // Update highScore if score is greater than previous highScore
       setHighScore(score);
@@ -47,8 +46,8 @@ const App = () => {
           charactersList.sort(() => Math.random() - 0.5)
           return true; 
         } else {
-          // If character was previously clicked, run gameOver()
-          gameOver();
+          // If character was previously clicked, run isGameOver()
+          isGameOver();
         }
       }
     });
